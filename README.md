@@ -13,7 +13,7 @@ Experienced Software & IoT Developer with a strong background in full-stack web 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANK078&theme=dark&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ANK078&theme=radical)
+![](https://github-profile-trophy-git-master-rio-ch.vercel.app/?username=ANK078&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)

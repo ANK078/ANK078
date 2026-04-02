@@ -1,4 +1,8 @@
 # 💫 About Me:
+## 🏆 Achievements
+- ⭐ Active contributor
+- 📊 Working on IoT + React Native + MQTT systems
+- 🎓 PhD in Chemical Engineering (Process Control / ANAMMOX)
 Experienced Software & IoT Developer with a strong background in full-stack web development, backend services, and real-time data systems. Skilled in Python, Node.js, React/React Native, MongoDB, MQTT, and AWS cloud technologies. Proven track record of building scalable applications, integrating complex systems, and optimizing data workflows. Demonstrated expertise in sensor data processing, MQTT over WebSockets with SSL, and cross-platform mobile app development. Adept at problem solving, debugging complex systems, and delivering high-quality solutions in collaborative environments.<br><br>Seeking challenging roles in backend development, IoT engineering, or cloud-native applications where I can leverage my technical expertise to drive business value.
 
 
@@ -13,7 +17,11 @@ Experienced Software & IoT Developer with a strong background in full-stack web 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANK078&theme=dark&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ANK078&theme=radical&margin-w=10&margin-h=10)
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=ANK078&theme=radical" 
+  onerror="this.style.display='none'" 
+/>
+<p><i>No trophies available or service unavailable.</i></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)

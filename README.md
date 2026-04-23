@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alam Nawaz
 
-🎓 PhD in Chemical Engineering (Process Control / ANAMMOX)  
+🎓 PhD in Chemical Engineering (Process Control/ modelling / Precess optimization / ANAMMOX), Former Assistant Professor at Yeunganm University 
 💻 Software & IoT Engineer | Full-Stack | Real-Time Systems  
 🚀 Building scalable IoT + Cloud + Mobile solutions  
 
@@ -19,12 +19,12 @@ Strong background in:
 - Industrial control systems (ANAMMOX)
 - Sensor data pipelines & analytics
 
-🎯 **Focus:** Backend systems, IoT platforms, and cloud-native architectures  
+🎯 **Focus:** Local system, Backend systems, IoT platforms, and cloud-native architectures  
 
 ---
 
 ## 🏆 Achievements
-- ⭐ Active contributor in multiple projects  
+- ⭐ Active contributor in multiple global and Korean Government projects  
 - 📊 Designed IoT platforms with real-time monitoring  
 - 🔬 PhD research in intelligent control systems (ANAMMOX)  
 

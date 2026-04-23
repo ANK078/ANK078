@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alam Nawaz
 
 🎓 PhD in Chemical Engineering (Process Control/ modelling / Precess optimization / ANAMMOX), 
-🎓 Former Assistant Professor at Yeungnam University, 
-💻 Software & IoT Engineer | Full-Stack | Real-Time Systems, 
+- Former Assistant Professor at Yeungnam University
+💻 Software & IoT Engineer | Full-Stack | Real-Time Systems
 🚀 Building scalable IoT + Cloud + Mobile solutions  
 
 ---

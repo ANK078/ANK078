@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Alam Nawaz
 
-🎓 PhD in Chemical Engineering (Process Control/ modelling / Precess optimization / ANAMMOX), [![Portfolio](https://www.flaticon.com/free-icon/resume_2683475?term=portfolio&page=1&position=22&origin=tag&related_id=2683475)](https://ankportfolio.dpdns.org/)]
+🎓 PhD in Chemical Engineering (Process Control/ modelling / Precess optimization / ANAMMOX), [![Portfolio](https://img.shields.io/badge/portfolio-8A2BE2
+)](https://ankportfolio.dpdns.org/)]
 - Former Assistant Professor at Yeungnam University
 - 💻 Software & IoT Engineer | Full-Stack | Real-Time Systems
 - 🚀 Building scalable IoT + Cloud + Mobile solutions  

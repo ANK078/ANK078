@@ -131,6 +131,7 @@ Strong background in:
 
 ## ☕ Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/alamchemg)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="alamchemg" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal)](https://paypal.me/ANK0786)
 
 ---

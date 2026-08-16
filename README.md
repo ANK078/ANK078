@@ -131,7 +131,7 @@ Strong background in:
 
 ## ☕ Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/alamchemg)
-[![PayPal]([https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal](https://www.paypal.com/ncp/payment/4W2XRCVG3ZFXE)
+[![PayPal]([https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal)](https://www.paypal.com/ncp/payment/4W2XRCVG3ZFXE)
 
 ---
 
